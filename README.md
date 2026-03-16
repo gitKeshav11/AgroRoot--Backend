@@ -7,7 +7,6 @@ AgroRoot aims to **bridge the gap between farmers and consumers using technology
 
 ---
 
-
 # 🚀 Key Features
 
 🌱 Farmer registration and management
