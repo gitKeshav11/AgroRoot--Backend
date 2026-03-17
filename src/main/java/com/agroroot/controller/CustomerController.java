@@ -10,6 +10,7 @@ import com.agroroot.service.CustomerService;
 
 @RestController
 @RequestMapping("/api/customers")
+@CrossOrigin(origins = "http://localhost:5173")
 public class CustomerController {
 
     @Autowired

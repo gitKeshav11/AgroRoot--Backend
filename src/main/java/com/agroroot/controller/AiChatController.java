@@ -9,6 +9,7 @@ import com.agroroot.service.AiService;
 
 @RestController
 @RequestMapping("/api/ai")
+@CrossOrigin(origins = "http://localhost:5173")
 public class AiChatController {
 
     @Autowired
