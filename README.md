@@ -1,5 +1,9 @@
 # 🌾 AgroRoot – Smart Agriculture Platform
 
+<p align="center">
+  <img src="assets/agroroot-preview.png" alt="AgroRoot UI Preview" width="900"/>
+</p>
+
 AgroRoot is a modern agriculture platform that connects **farmers directly with customers** and provides **AI-powered farming guidance**.
 The platform helps farmers sell their crops directly and get intelligent suggestions about farming, fertilizers, and crop management.
 
