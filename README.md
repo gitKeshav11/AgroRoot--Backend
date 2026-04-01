@@ -1,6 +1,7 @@
 # 🌾 AgroRoot – Smart Agriculture Platform
 
 
+
 <p align="center">
   <img src="assets/agroroot-preview.png" alt="AgroRoot UI Preview" width="900"/>
 </p>
